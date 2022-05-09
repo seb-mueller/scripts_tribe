@@ -1,0 +1,37 @@
+;ID   LycEPRV_LTR DNA   ; PLN   ; 185 BP
+;XX
+;DE   Long terminal repeat of an endogenous caulimovirus from
+;DE   Lycopersicon esculentum.
+;XX
+;AC   AC171732
+;XX
+;DT   16-MAR-2006 (Rel. 11.03, Created)
+;DT   14-DEC-2010 (Rel. 16.01, Last updated, Version 2)
+;XX
+;KW   Caulimoviridae; Integrated Virus; LycEPRV_LTR.
+;XX
+;NM   LycEPRV_LTR.
+;XX
+;OS   Solanum lycopersicum
+;XX
+;OC   Solanum lycopersicum
+;OC   Eukaryota; Viridiplantae; Streptophyta; Embryophyta;
+;OC   Tracheophyta; Spermatophyta; Magnoliophyta; eudicotyledons;
+;OC   Gunneridae; Pentapetalae; asterids; lamiids; Solanales;
+;OC   Solanaceae; Solanoideae; Solaneae; Solanum; Lycopersicon.
+;XX
+;RN   [1]  (bases 1 to 185)
+;RA   Jurka,J.
+;RT   LycEPRV: Long terminal repeat.
+;RL   Repbase Reports 6(3), 160-160 (2006)
+;XX
+;CC   LTRs are ~97% identical.  No LTRs have been reported previously
+;CC   for this retrovirus.
+;XX
+;DR   Positions   85944   86128  Accession No      AC171732 EMBL/GenBank/DDBJ
+;XX
+;SQ   Sequence 185 BP; 48 A; 42 C; 29 G; 66 T; 0 other;
+LycEPRV_LTR
+tgctttgttttcttgtgtcggccgaataaagagaggccatgtgtaaagtatgtgtcggccacttttagcc
+aaaagtttgtaaattttgtgtataaatagaggagctttcctcataaataaaacacaccttcatccttaca
+tctctcatctttctgaatattctctttacgcttccatcccctcca1
