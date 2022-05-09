@@ -1,7 +1,15 @@
 # Code for TRIBE project analysis
-Interspecific hybridization in tomato influences endogenous viral sRNAs and alters gene expression
+This reposiory contains code and scripts for processing and analysing data for the TRIBE project.
+> Interspecific hybridization in tomato influences endogenous viral sRNAs and alters gene expression
 
-## Background: Hybridization is associated with activation of transposable elements and changes in patterns of gene expression leading to phenotypic changes. However, the underlying mechanisms are not well understood.
+Raw data can be found here:
+[smallRNA-seq of Solanum Lycopersicum and Solanum Pennellii parents and crosses up to the F4 generation](https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-10613)
+[RNA-seq of Solanum Lycopersicum and Solanum Pennellii parents and crosses up to the F4 generation](https://www.ebi.ac.uk/biostudies/studies/E-MTAB-10660)
+
+
+
+## Background: 
+Hybridization is associated with activation of transposable elements and changes in patterns of gene expression leading to phenotypic changes. However, the underlying mechanisms are not well understood.
 
 Results: Here we describe changes to gene expression in interspecific Solanum hybrids that are associated with small RNAs derived from endogenous (para)retroviruses (EPRV). There were prominent changes to sRNA profiles in these hybrids involving 22nt species produced in the DCL2 biogenesis pathway and the hybridisation-induced changes to gene expression were similar to those in a dcl2 mutant.
 
