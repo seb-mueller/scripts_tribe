@@ -2,9 +2,9 @@
 This reposiory contains code and scripts for processing and analysing data for the TRIBE project.
 > Interspecific hybridization in tomato influences endogenous viral sRNAs and alters gene expression
 
-Raw data can be found here:
-[smallRNA-seq of Solanum Lycopersicum and Solanum Pennellii parents and crosses up to the F4 generation](https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-10613)
-[RNA-seq of Solanum Lycopersicum and Solanum Pennellii parents and crosses up to the F4 generation](https://www.ebi.ac.uk/biostudies/studies/E-MTAB-10660)
+### Raw data can be found here:
+- [smallRNA-seq of Solanum Lycopersicum and Solanum Pennellii parents and crosses up to the F4 generation](https://www.ebi.ac.uk/biostudies/ArrayExpress/studies/E-MTAB-10613)
+- [RNA-seq of Solanum Lycopersicum and Solanum Pennellii parents and crosses up to the F4 generation](https://www.ebi.ac.uk/biostudies/studies/E-MTAB-10660)
 
 
 
@@ -21,7 +21,7 @@ Conclusions: These findings indicate that hybridization leads to activation of E
 
 
 
-## Cite
+## How to cite
 
 ### code
 The same code as deposited here is also mirrored on zenodo:
